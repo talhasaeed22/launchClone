@@ -1,0 +1,41 @@
+#Home-container{
+    padding: 60px 0px;
+}
+.box{
+    margin: 0px 12px;
+}
+#left{
+    padding: 0px 32px;
+}
+#right{
+    padding: 0px 12px;
+}
+.home-btn{
+    
+    margin-right: 27px;
+    border-radius: 32px;
+    border: none;
+    padding: 10px 22px;
+
+}
+#right-btn{
+    background-color: white;
+    color: #007bff;
+    border: 1px solid #007bff;
+}
+#left-btn{
+    background-color: #007bff;
+    color: white;
+    
+}
+
+#right-btn:hover{
+    background-color: #007bff;
+    color: white;
+    
+}
+@media (max-width:1000px){
+    #Home-container{
+        flex-direction: column;
+    }
+}
