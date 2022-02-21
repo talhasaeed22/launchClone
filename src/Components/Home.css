@@ -34,6 +34,14 @@
     color: white;
     
 }
+.home-box{  
+    border-right: 1px solid #e3e3e3;
+}
+.icons{
+    font-size: 51px;
+    margin: 12px;
+}
+
 @media (max-width:1000px){
     #Home-container{
         flex-direction: column;

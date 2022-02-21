@@ -34,18 +34,15 @@ function Footer(props) {
                         <div className="row mt-3">
                             <div className="col-md-3 col-lg-4 col-xl-3 mb-4">
                                 <h6 className="text-uppercase fw-bold mb-4">
-                                    <i className="fas fa-gem me-3"></i>About Me
+                                    <i className="fas fa-gem me-3"></i>About Launch.
                                 </h6>
                                 <p>
-                                    I create websites and make them up to date. I can create websites in
-                                    <li>React</li>
-                                    <li>Simple Html CSS JavaScript</li>
-                                    <li>NextJs</li>
+                                Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
                                 </p>
                             </div>
                             <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
                                 <h6 className="text-uppercase fw-bold mb-4">
-                                    Contact Me
+                                    Contact Us
                                 </h6>
                                 <p><i className="fas fa-home me-3"></i>Soan Gardens, Islamabad, PK</p>
                                 <p>
