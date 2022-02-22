@@ -63,3 +63,72 @@
   margin: 0px;
   }
 }
+
+
+
+/* //pricing CSS */
+
+.pricing-button{
+  display: block;
+  margin: auto;
+  border-radius: 32px;
+  border: 1px solid #007bff;
+  color: #007bff;
+  background-color: white;
+  padding: 10px 22px;
+}
+.pricing-button:hover{
+  background-color: #007bff;
+  color: white;
+}
+#pricing-button-mid:hover{
+  background-color: #6f9ccc;
+  color: white;
+}
+#pricing-button-mid{
+  border: none;
+  color: white;
+  background-color: #007bff;
+}
+.priceBox{
+  padding: 31px;
+  /* border: 1px solid #007bff; */
+  background-color: whitesmoke;
+  margin: 41px 61px;
+  width: 21%;
+  border-radius: 32px;
+}
+
+
+
+/* //Contact CSS */
+
+#footer2 {
+  text-align: center;
+  
+  display: flex;
+}
+#footer2 .form {
+  display: flex;
+  flex-direction: column;
+  margin: 0px auto;
+  width: 50%;
+  /* padding: 4px 206px; */
+  text-align: center;
+}
+#footer2 .form input {
+  margin: 14px;
+  height: 24px;
+  background: transparent;
+  border-bottom-width: 1px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  align-content: center;
+  color: white;
+  font-size: 1rem;
+  
+}
+#footer2 .form input:focus {
+  outline: none;
+}
