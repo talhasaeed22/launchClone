@@ -23,22 +23,22 @@ const Home = () => {
 
             <div className="container">
                 <div className="row">
-                    <div style={{ borderLeft: '1px solid #e3e3e3' }} className="col-sm-12 col-md-3 home-box p-5 mb-4">
+                    <div style={{ borderLeft: '1px solid #e3e3e3' }} className="col-sm-12 col-md-3 home-box p-5 mb-4 transform">
                         <i style={{ color: '#007bff' }} className="icons fa fa-briefcase" aria-hidden="true"></i>
                         <h5>Grow Your Business</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     </div>
-                    <div className="col-sm-12 col-md-3 home-box p-5 mb-4">
+                    <div className="col-sm-12 col-md-3 home-box p-5 mb-4 transform">
                         <i style={{ color: 'orange' }} className="icons fa fa-recycle" aria-hidden="true"></i>
                         <h5>Build Products</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     </div>
-                    <div className="col-sm-12 col-md-3 home-box p-5 mb-4">
+                    <div className="col-sm-12 col-md-3 home-box p-5 mb-4 transform">
                         <i style={{ color: 'red' }} className="icons fa fa-address-card" aria-hidden="true"></i>
                         <h5>Success Every Day</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     </div>
-                    <div className="col-sm-12 col-md-3 home-box p-5 mb-4">
+                    <div className="col-sm-12 col-md-3 home-box p-5 mb-4 transform">
                         <i style={{ color: 'blue' }} className="icons fa fa-window-maximize" aria-hidden="true"></i>
 
                         <h5>Bring Ideas to Life</h5>

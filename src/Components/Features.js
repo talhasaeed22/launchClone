@@ -7,7 +7,7 @@ const Features = () => {
     <>
       <div className="container my-5">
         <div className="row">
-          <div id='features-left' className="col-sm-12 col-md-6 d-flex flex-column py-3">
+          <div id='features-left' className="col-sm-12 col-md-6 d-flex flex-column py-3 transform">
             <p style={{color:'#007bff'}}> <strong>DIGITAL SERVICES</strong></p>
             <h2 style={{fontSize:'4rem'}}>Selling Digital <br /> Services</h2>
             <p className='text-muted'>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast</p>
