@@ -4,6 +4,9 @@
 }
 .navigation{
   padding: 12px 12%;
+  position: sticky;
+  top: 0px;
+  background-color: white;
 }
 .btn {
   border-radius: 31px;
