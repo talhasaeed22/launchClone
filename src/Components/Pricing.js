@@ -9,7 +9,7 @@ const Pricing = () => {
             </div>
             <div className="container px-5">
                 <div className="row my-5">
-                    <div className="col-md-3 col-sm-12 d-flex flex-column priceBox  transform">
+                    <div className="col-md-4 col-lg-3 col-sm-12 d-flex flex-column priceBox  transform">
                         <h1 style={{ textAlign: 'center' }}>Free</h1>
                         <h3 style={{ textAlign: 'center' }}>$0</h3>
                         <ol id='ul' >
@@ -19,7 +19,7 @@ const Pricing = () => {
                         </ol>
                         <button className="pricing-button">Get Started</button>
                     </div>
-                    <div className="col-md-3 col-sm-12 d-flex flex-column  priceBox  transform" style={{boxShadow: '0px 0px 21px #dbdbdb', backgroundColor:'white'}}>
+                    <div className="col-md-4 col-lg-3 col-sm-12 d-flex flex-column  priceBox  transform" style={{boxShadow: '0px 0px 21px #dbdbdb', backgroundColor:'white'}}>
                         <h1 style={{ textAlign: 'center' }}>Standard</h1>
                         <h3 style={{ textAlign: 'center' }}>$19.99</h3>
                         <ol id='ul' >
@@ -29,7 +29,7 @@ const Pricing = () => {
                         </ol>
                         <button className="pricing-button" id='pricing-button-mid'>Get Started</button>
                     </div>
-                    <div className="col-md-3 col-sm-12 d-flex flex-column  priceBox transform">
+                    <div className="col-md-4 col-lg-3 col-sm-12 d-flex flex-column  priceBox transform">
                         <h1 style={{ textAlign: 'center' }}>Premium</h1>
                         <h3 style={{ textAlign: 'center' }}>$79.99</h3>
                         <ol id='ul' >
